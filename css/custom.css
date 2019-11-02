@@ -1,0 +1,41 @@
+.rating-box .rating1 {
+    width: 20%;
+    float: left;
+    height: 15px;
+    background: url(../images/bkg_rating.png) 0 100% repeat-x;
+}
+
+.rating-box .rating2 {
+    width: 40%;
+    float: left;
+    height: 15px;
+    background: url(../images/bkg_rating.png) 0 100% repeat-x;
+}
+
+.rating-box .rating3 {
+    width: 60%;
+    float: left;
+    height: 15px;
+    background: url(../images/bkg_rating.png) 0 100% repeat-x;
+}
+
+.rating-box .rating4 {
+    width: 80%;
+    float: left;
+    height: 15px;
+    background: url(../images/bkg_rating.png) 0 100% repeat-x;
+}
+
+.rating-box .rating5 {
+    width: 100%;
+    float: left;
+    height: 15px;
+    background: url(../images/bkg_rating.png) 0 100% repeat-x;
+}
+
+.rating-box .rating {
+    width: 0%;
+    float: left;
+    height: 15px;
+    background: url(../images/bkg_rating.png) 0 100% repeat-x;
+}
